@@ -1,0 +1,43 @@
+import csv
+
+# Create 30 sports introduction records in English
+sports_data = [
+    ["Sport Name", "Introduction", "Features", "Origin", "Suitable For"],
+    ["Badminton", "A sport where players use rackets to hit a shuttlecock over a net.", "Fast-paced and agile", "India", "All age groups"],
+    ["Basketball", "Two teams compete to shoot the ball into the opposing hoop.", "Teamwork and strategy", "USA", "Teens and adults"],
+    ["Football (Soccer)", "Players try to score goals by kicking the ball into the opponent’s net.", "World’s most popular", "England", "All age groups"],
+    ["Table Tennis", "Players hit a lightweight ball back and forth on a table using small paddles.", "Quick reflexes", "UK", "Children and adults"],
+    ["Swimming", "Moving through water using limbs.", "Full-body workout", "Prehistoric times", "Everyone"],
+    ["Tennis", "Players use rackets to hit a ball across a net.", "Stamina and skill", "France", "Teens and above"],
+    ["Baseball", "Two teams alternate between batting and fielding.", "Classic American sport", "USA", "Teens and adults"],
+    ["Golf", "Players hit balls into holes using various clubs.", "Precision and patience", "Scotland", "Adults and seniors"],
+    ["Skateboarding", "A street sport using a skateboard for tricks or movement.", "Urban culture", "USA", "Teens"],
+    ["Volleyball", "Teams try to ground the ball on the opponent’s court.", "Team cooperation", "USA", "Everyone"],
+    ["Boxing", "Two opponents fight using their fists under set rules.", "High competition", "Ancient Rome", "Adults"],
+    ["Wrestling", "Two people try to gain control and pin each other down.", "Strength and technique", "Ancient Greece", "Male adults"],
+    ["Yoga", "Combines physical postures and breathing for mental and physical wellness.", "Relaxing and mindful", "India", "Women and seniors"],
+    ["Power Walking", "A brisk walking activity for health.", "Simple and effective", "Worldwide", "Seniors and general public"],
+    ["Running", "A basic movement for speed or endurance.", "Cardio health", "Prehistoric hunting", "Everyone"],
+    ["Marathon", "Long-distance running competition.", "Endurance challenge", "Greece", "Adult runners"],
+    ["Archery", "Shooting arrows with a bow at a target.", "Focus and calmness", "Prehistoric hunting", "Teens and adults"],
+    ["Kickboxing", "A combat sport combining punches and kicks.", "Full-body combat", "Europe", "Adults"],
+    ["Rowing", "Using oars to move a boat through water.", "Team rhythm", "Ancient transport", "Young adults"],
+    ["Rock Climbing", "Climbing up natural or artificial rock walls.", "Self-challenging", "Outdoor origin", "Young adults"],
+    ["Skiing", "Sliding over snow using skis.", "Fast-paced thrill", "Nordic regions", "Young and adults"],
+    ["Ice Skating", "Gliding over ice using skates.", "Balance and elegance", "Netherlands", "Children and adults"],
+    ["Fencing", "Dueling sport using swords.", "Speed and strategy", "France", "Teens and adults"],
+    ["Rugby", "A contact team sport involving carrying and passing the ball.", "Physical and strategic", "UK", "Male adults"],
+    ["Softball", "A variation of baseball with a bigger ball.", "Popular among women", "USA", "Students and women"],
+    ["Jump Rope", "Jumping over a spinning rope repeatedly.", "Coordination and fitness", "Global", "Children and general public"],
+    ["Cycling", "Riding a bicycle for sport or transportation.", "Eco-friendly exercise", "France", "Everyone"],
+    ["Shooting", "A precision sport involving firearms or air guns.", "Focus and accuracy", "Military origin", "Adults"],
+    ["Surfing", "Riding waves using a board.", "Flow with nature", "Polynesia", "Young people"],
+    ["Parkour", "Moving quickly through obstacles using body movement.", "Urban agility", "France", "Teens and young adults"]
+]
+
+# Output to CSV
+with open("sports_intro_dataset.csv", "w", newline="", encoding="utf-8-sig") as f:
+    writer = csv.writer(f)
+    writer.writerows(sports_data)
+
+print("sports_intro_dataset.csv created successfully!")
