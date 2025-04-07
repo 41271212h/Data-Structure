@@ -4,3 +4,4 @@
 - Homework 2: DRai
 - Homework 3: loginAI
 - Homework 4: SumPDF
+- Final Project Intro Video 1: https://www.youtube.com/watch?v=1MY3ThiO9i0
