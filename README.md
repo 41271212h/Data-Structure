@@ -5,3 +5,5 @@
 - Homework 3: loginAI
 - Homework 4: SumPDF
 - Final Project Intro Video 1: https://www.youtube.com/watch?v=1MY3ThiO9i0
+- 4/20 update code of Final Project in **"groupfinal"**
+- Second Project Intro Video2 2:
