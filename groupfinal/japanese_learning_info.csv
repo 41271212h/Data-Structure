@@ -1,0 +1,51 @@
+StudentID,Target_JLPT_Level,Test_Month,Learning_Goal,Study_Plan,Preferred_Resource
+S001,N3,July,Travel in Japan,Weekends only,Online classes
+S002,N3,December,Pass university entrance exam,Flexible schedule,Online classes
+S003,N2,July,Advanced academic research,Flexible schedule,Minna no Nihongo
+S004,N2,July,Basic daily conversation,3 hours per day,JLPT Official Practice Workbook
+S005,N1,December,Travel in Japan,3 hours per day,Minna no Nihongo
+S006,N2,December,Work in Japanese company,1 hour per day,JLPT Official Practice Workbook
+S007,N3,July,Basic daily conversation,3 hours per day,Online classes
+S008,N3,July,Basic daily conversation,Flexible schedule,JLPT Official Practice Workbook
+S009,N3,July,Travel in Japan,2 hours per day,Minna no Nihongo
+S010,N5,July,Advanced academic research,3 hours per day,Minna no Nihongo
+S011,N2,July,Basic daily conversation,1 hour per day,Online classes
+S012,N1,July,Work in Japanese company,3 hours per day,Minna no Nihongo
+S013,N2,December,Pass university entrance exam,Weekends only,Minna no Nihongo
+S014,N3,December,Pass university entrance exam,3 hours per day,Minna no Nihongo
+S015,N5,December,Work in Japanese company,3 hours per day,Online classes
+S016,N3,July,Advanced academic research,Weekends only,Genki I & II
+S017,N1,December,Travel in Japan,Weekends only,Japanese tutor
+S018,N4,December,Advanced academic research,3 hours per day,JLPT Official Practice Workbook
+S019,N5,December,Basic daily conversation,2 hours per day,Minna no Nihongo
+S020,N4,December,Pass university entrance exam,Weekends only,Genki I & II
+S021,N5,December,Basic daily conversation,2 hours per day,JLPT Official Practice Workbook
+S022,N5,July,Travel in Japan,3 hours per day,Minna no Nihongo
+S023,N5,July,Pass university entrance exam,Weekends only,Minna no Nihongo
+S024,N5,December,Advanced academic research,3 hours per day,Japanese tutor
+S025,N2,July,Travel in Japan,3 hours per day,Genki I & II
+S026,N3,July,Travel in Japan,1 hour per day,Genki I & II
+S027,N5,December,Work in Japanese company,3 hours per day,JLPT Official Practice Workbook
+S028,N5,December,Travel in Japan,1 hour per day,Japanese tutor
+S029,N5,December,Work in Japanese company,1 hour per day,Online classes
+S030,N1,December,Advanced academic research,1 hour per day,Minna no Nihongo
+S031,N3,December,Pass university entrance exam,1 hour per day,JLPT Official Practice Workbook
+S032,N3,July,Work in Japanese company,1 hour per day,Japanese tutor
+S033,N1,July,Work in Japanese company,Flexible schedule,Genki I & II
+S034,N5,July,Advanced academic research,Flexible schedule,Japanese tutor
+S035,N2,December,Basic daily conversation,Weekends only,Genki I & II
+S036,N4,December,Pass university entrance exam,3 hours per day,JLPT Official Practice Workbook
+S037,N4,December,Basic daily conversation,1 hour per day,Genki I & II
+S038,N5,July,Advanced academic research,3 hours per day,Japanese tutor
+S039,N4,July,Basic daily conversation,1 hour per day,Online classes
+S040,N3,July,Travel in Japan,1 hour per day,Online classes
+S041,N2,December,Advanced academic research,Weekends only,JLPT Official Practice Workbook
+S042,N4,December,Work in Japanese company,Flexible schedule,JLPT Official Practice Workbook
+S043,N3,December,Work in Japanese company,2 hours per day,JLPT Official Practice Workbook
+S044,N5,December,Basic daily conversation,2 hours per day,Genki I & II
+S045,N5,December,Travel in Japan,2 hours per day,Genki I & II
+S046,N4,December,Travel in Japan,Weekends only,Genki I & II
+S047,N5,December,Advanced academic research,3 hours per day,Japanese tutor
+S048,N4,July,Pass university entrance exam,3 hours per day,Online classes
+S049,N2,July,Pass university entrance exam,1 hour per day,Genki I & II
+S050,N4,July,Pass university entrance exam,Flexible schedule,Genki I & II

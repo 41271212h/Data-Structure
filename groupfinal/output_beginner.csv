@@ -1,0 +1,15 @@
+﻿StudentID,Name,Age,Email,Score_Grammar,Score_Vocab,Score_Listening,Score_Reading,Total_Score,Target_JLPT_Level,Test_Month,Learning_Goal,Study_Plan,Preferred_Resource,Class_Level
+S003,Carrie Smith DDS,22,bradleyallen@chambers.com,10,13,7,6,36,N2,July,Advanced academic research,Flexible schedule,Minna no Nihongo,Beginner
+S004,Jessica Wright,28,fernandezelizabeth@berger.com,13,5,7,13,38,N2,July,Basic daily conversation,3 hours per day,JLPT Official Practice Workbook,Beginner
+S011,Carlos Hart,33,monicaalvarez@ross.biz,13,7,16,8,44,N2,July,Basic daily conversation,1 hour per day,Online classes,Beginner
+S018,Melissa Rivers,27,cparks@gmail.com,5,13,7,9,34,N4,December,Advanced academic research,3 hours per day,JLPT Official Practice Workbook,Beginner
+S019,Julia Jones,26,tylerclay@hotmail.com,10,9,17,6,42,N5,December,Basic daily conversation,2 hours per day,Minna no Nihongo,Beginner
+S021,Ray Davis,29,michellemartin@fowler.com,6,8,6,11,31,N5,December,Basic daily conversation,2 hours per day,JLPT Official Practice Workbook,Beginner
+S023,Daniel Shaw,31,scottweber@hotmail.com,16,14,6,7,43,N5,July,Pass university entrance exam,Weekends only,Minna no Nihongo,Beginner
+S033,Daniel Clark,32,ashley22@stevenson.org,6,9,13,13,41,N1,July,Work in Japanese company,Flexible schedule,Genki I & II,Beginner
+S037,Terry Mccarthy,28,lcarpenter@davis.com,11,8,5,13,37,N4,December,Basic daily conversation,1 hour per day,Genki I & II,Beginner
+S038,Michele Morton,19,donald92@gmail.com,5,10,8,15,38,N5,July,Advanced academic research,3 hours per day,Japanese tutor,Beginner
+S039,Andrea Robinson,18,paulkemp@gmail.com,6,19,10,8,43,N4,July,Basic daily conversation,1 hour per day,Online classes,Beginner
+S045,James Estrada Jr.,21,johnsonrachel@gmail.com,17,6,6,7,36,N5,December,Travel in Japan,2 hours per day,Genki I & II,Beginner
+S046,Richard Ward,25,laura05@miller.com,20,6,6,9,41,N4,December,Travel in Japan,Weekends only,Genki I & II,Beginner
+S050,Ryan Wagner,32,glee@smith.com,8,5,16,9,38,N4,July,Pass university entrance exam,Flexible schedule,Genki I & II,Beginner

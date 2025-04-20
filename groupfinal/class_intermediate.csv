@@ -1,0 +1,19 @@
+StudentID,Name,Age,Email,Score_Grammar,Score_Vocab,Score_Listening,Score_Reading,Total_Score,Target_JLPT_Level,Test_Month,Learning_Goal,Study_Plan,Preferred_Resource,Class_Level
+S001,Ryan Gomez,22,uwyatt@williams-stokes.net,11,5,16,15,47,N3,July,Travel in Japan,Weekends only,Online classes,Intermediate
+S008,Nathaniel Reed,24,bboyd@bridges-hodges.net,15,10,15,9,49,N3,July,Basic daily conversation,Flexible schedule,JLPT Official Practice Workbook,Intermediate
+S009,Amy Mcneil,23,jburton@flores-howard.biz,6,17,11,18,52,N3,July,Travel in Japan,2 hours per day,Minna no Nihongo,Intermediate
+S010,Paul Li,23,jason23@campos-luna.com,18,5,7,15,45,N5,July,Advanced academic research,3 hours per day,Minna no Nihongo,Intermediate
+S012,Jennifer Johnson,23,ssullivan@yahoo.com,12,13,9,18,52,N1,July,Work in Japanese company,3 hours per day,Minna no Nihongo,Intermediate
+S014,Trevor Douglas,26,fkramer@yahoo.com,8,13,6,19,46,N3,December,Pass university entrance exam,3 hours per day,Minna no Nihongo,Intermediate
+S015,Deanna Smith,25,crystalmiddleton@roberts-cooper.org,9,16,16,5,46,N5,December,Work in Japanese company,3 hours per day,Online classes,Intermediate
+S016,Lisa Gilbert,31,mwilliams@walker.net,5,14,11,17,47,N3,July,Advanced academic research,Weekends only,Genki I & II,Intermediate
+S017,Lisa Chambers,31,howarddavid@kelly.com,8,16,7,15,46,N1,December,Travel in Japan,Weekends only,Japanese tutor,Intermediate
+S024,Felicia Mosley,18,jonesmelissa@ruiz.com,12,9,17,7,45,N5,December,Advanced academic research,3 hours per day,Japanese tutor,Intermediate
+S025,Charles Williams,24,amypatton@gmail.com,12,17,11,12,52,N2,July,Travel in Japan,3 hours per day,Genki I & II,Intermediate
+S028,Kayla Obrien,18,farleyrachel@hotmail.com,8,11,17,10,46,N5,December,Travel in Japan,1 hour per day,Japanese tutor,Intermediate
+S029,Jeanne Morris,26,zmurray@english-williams.org,9,18,9,15,51,N5,December,Work in Japanese company,1 hour per day,Online classes,Intermediate
+S034,Russell Short,22,nsmith@davis.com,16,6,5,20,47,N5,July,Advanced academic research,Flexible schedule,Japanese tutor,Intermediate
+S040,Keith Harrington,32,cheyenne99@yahoo.com,11,15,9,17,52,N3,July,Travel in Japan,1 hour per day,Online classes,Intermediate
+S042,Andrew Walker,21,browntheresa@fowler.info,12,14,14,9,49,N4,December,Work in Japanese company,Flexible schedule,JLPT Official Practice Workbook,Intermediate
+S043,Elizabeth Hensley,29,robertsonsherry@terrell-olson.com,6,18,12,11,47,N3,December,Work in Japanese company,2 hours per day,JLPT Official Practice Workbook,Intermediate
+S048,Jeffrey Hayes,20,angelastewart@yahoo.com,19,12,6,14,51,N4,July,Pass university entrance exam,3 hours per day,Online classes,Intermediate
